@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mouni
+Build-Jdk: 21.0.5
+Implementation-Title: MicroService1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hnj.product
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/product-service
+Created-By: Maven Integration for Eclipse
+

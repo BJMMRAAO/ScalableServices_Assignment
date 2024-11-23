@@ -1,0 +1,9 @@
+com\hnj\product\controller\ProductController.class
+com\hnj\product\model\Product$ProductBuilder.class
+com\hnj\product\ProductServiceApplication.class
+com\hnj\product\model\request\ProductRequest$ProductRequestBuilder.class
+com\hnj\product\repository\ProductRepository.class
+com\hnj\product\model\request\ProductRequest.class
+com\hnj\product\service\ProductService.class
+com\hnj\product\service\impl\ProductServiceImpl.class
+com\hnj\product\model\Product.class
