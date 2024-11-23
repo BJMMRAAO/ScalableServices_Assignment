@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mouni
+Build-Jdk: 21.0.5
+Implementation-Title: service-registry
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hnj
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/service-registry
+Created-By: Maven Integration for Eclipse
+
