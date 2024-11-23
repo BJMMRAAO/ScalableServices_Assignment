@@ -1,0 +1,9 @@
+com\offer\model\request\OfferRequest$OfferRequestBuilder.class
+com\offer\controller\OfferController.class
+com\offer\model\Offer.class
+com\offer\model\Offer$OfferBuilder.class
+com\offer\OfferServiceApplication.class
+com\offer\model\request\OfferRequest.class
+com\offer\service\impl\OfferServiceImpl.class
+com\offer\repository\OfferRepository.class
+com\offer\service\OfferService.class

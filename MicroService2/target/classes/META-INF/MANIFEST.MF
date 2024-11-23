@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mouni
+Build-Jdk: 21.0.5
+Implementation-Title: MicroService2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.offer
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/MicroService2
+Created-By: Maven Integration for Eclipse
+
